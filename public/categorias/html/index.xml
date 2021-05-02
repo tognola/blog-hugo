@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HTML on ~/tognola</title>
+    <link>http://localhost:1313/categorias/html/</link>
+    <description>Recent content in HTML on ~/tognola</description>
+    <image>
+      <url>http://localhost:1313/papermod-cover.png</url>
+      <link>http://localhost:1313/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Sat, 01 May 2021 22:48:37 -0300</lastBuildDate><atom:link href="http://localhost:1313/categorias/html/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Menú hamburguesa sólo con CSS (fácil)</title>
+      <link>http://localhost:1313/2021/05/menu-hamburguesa-solo-con-css-facil/</link>
+      <pubDate>Sat, 01 May 2021 22:48:37 -0300</pubDate>
+      
+      <guid>http://localhost:1313/2021/05/menu-hamburguesa-solo-con-css-facil/</guid>
+      <description>test</description>
+    </item>
+    
+    <item>
+      <title>Barra de navegación responsive (Mobile first)</title>
+      <link>http://localhost:1313/2021/05/barra-de-navegacion-responsive-mobile-first/</link>
+      <pubDate>Sat, 01 May 2021 13:29:28 -0300</pubDate>
+      
+      <guid>http://localhost:1313/2021/05/barra-de-navegacion-responsive-mobile-first/</guid>
+      <description>¡Hola chicos! Vamos a arrancar con un ejemplo de una barra de navegación responsive, usando Mobile First.
+Código básico de la barra de navegación: &amp;lt;header&amp;gt; &amp;lt;h1&amp;gt; Titulo &amp;lt;/h1&amp;gt; &amp;lt;nav&amp;gt; &amp;lt;span class=&amp;#34;menu-button&amp;#34;&amp;gt;☰&amp;lt;/span&amp;gt; &amp;lt;ul&amp;gt; &amp;lt;li&amp;gt;Link 1&amp;lt;/li&amp;gt; &amp;lt;li&amp;gt;Link 2&amp;lt;/li&amp;gt; &amp;lt;li&amp;gt;Link 3&amp;lt;/li&amp;gt; &amp;lt;li&amp;gt;Link 4&amp;lt;/li&amp;gt; &amp;lt;/ul&amp;gt; &amp;lt;/nav&amp;gt; &amp;lt;/header&amp;gt; Puntos importantes en el estilo CSS:   Contenedor header:
+  display: flex y justify-content: space-between. Para ubicar en extremos opuestos al logo y a la barra de navegación.</description>
+    </item>
+    
+  </channel>
+</rss>

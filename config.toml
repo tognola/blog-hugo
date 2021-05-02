@@ -1,0 +1,97 @@
+baseURL = "http://localhost:1313/"
+languageCode = "es"
+title = "~/tognola"
+theme = "papermod"
+defaultContentLanguage = "es"
+disqusShortname = "blog"
+removePathAccents = true
+
+[permalinks]
+  posts = "/:year/:month/:title/"
+  
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  categoria = "categorías"
+
+[params]
+env = "production"
+description = "Tognola's Blog - https://github.com/tognola"
+##author = "Gaston Tognola"
+defaultTheme = "auto"
+ShowShareButtons = true
+ShowReadingTime = true
+displayFullLangName = true
+ShowPostNavLinks = true
+ShowBreadCrumbs = true
+ShowCodeCopyButtons = true
+ShowToc = true
+images = [ "papermod-cover.png" ]
+comments = true
+
+  [params.profileMode]
+  enabled = false
+  title = "~/tognola"
+  imageUrl = "#"
+  imageTitle = "my image"
+
+    [[params.profileMode.buttons]]
+    name = "Archives"
+    url = "archives"
+
+    [[params.profileMode.buttons]]
+    name = "Tags"
+    url = "tags"
+
+  [params.homeInfoParams]
+  Title = ""
+  Content = "🚀 ¡Bienvenido al blog! dónde encontrarás contenido respecto a desarrollo web en **español**."
+
+  [[params.socialIcons]]
+  name = "github"
+  url = "https://github.com/tognola"
+
+  [[params.socialIcons]]
+  name = "twitter"
+  url = "https://twitter.com/gastognola"
+
+  [[params.socialIcons]]
+  name = "discord"
+  url = "https://discord.gg/34tu4qdKad"
+
+[params.fuseOpts]
+isCaseSensitive = false
+shouldSort = true
+location = 0
+distance = 1_000
+threshold = 0.4
+minMatchCharLength = 0
+keys = [ "title", "permalink", "summary", "content" ]
+
+[outputs]
+home = [ "HTML", "RSS", "JSON" ]
+
+
+[languages.es]
+languageName = "Spanish"
+weight = 1
+
+[[languages.es.menu.main]]
+name = "Archivo"
+url = "archives"
+weight = 5
+
+[[languages.es.menu.main]]
+name = "Búsqueda"
+url = "search/"
+weight = 10
+
+[[languages.es.menu.main]]
+name = "Tags"
+url = "tags/"
+weight = 10
+
+[[languages.es.menu.main]]
+name = "Categorías"
+url = "categorias/"
+weight = 10
