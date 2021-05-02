@@ -4,7 +4,6 @@ date: 2021-05-01T22:48:37-03:00
 draft: false
 categorías: ["HTML", "CSS"]
 tags: ["principiante"]
-description: test
 ---
 
 
