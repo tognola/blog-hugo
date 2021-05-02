@@ -1,0 +1,19 @@
+- id: prev_page
+  translation: "Anterior"
+
+- id: next_page
+  translation: "Siguiente"
+
+- id: read_time
+  translation:
+    one : "1 min"
+    other: "{{ .Count }} min"
+
+- id: toc
+  translation: "Tabla de Contenidos"
+
+- id: translations
+  translation: "Traducciones"
+
+- id: categories
+  translation: "Categorías"
