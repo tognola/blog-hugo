@@ -44,7 +44,7 @@ comments = true
     url = "tags"
 
   [params.homeInfoParams]
-  Title = ""
+  Title = "~/tognola"
   Content = "🚀 ¡Bienvenido al blog! dónde encontrarás contenido respecto a desarrollo web en **español**."
 
   [[params.socialIcons]]
