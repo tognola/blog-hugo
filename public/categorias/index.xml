@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categorías on ~/tognola</title>
-    <link>http://localhost:1313/categorias/</link>
+    <link>https://tognola.tk/categorias/</link>
     <description>Recent content in Categorías on ~/tognola</description>
     <image>
-      <url>http://localhost:1313/papermod-cover.png</url>
-      <link>http://localhost:1313/papermod-cover.png</link>
+      <url>https://tognola.tk/papermod-cover.png</url>
+      <link>https://tognola.tk/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Sat, 01 May 2021 22:48:37 -0300</lastBuildDate><atom:link href="http://localhost:1313/categorias/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 May 2021 22:48:37 -0300</lastBuildDate><atom:link href="https://tognola.tk/categorias/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CSS</title>
-      <link>http://localhost:1313/categorias/css/</link>
+      <link>https://tognola.tk/categorias/css/</link>
       <pubDate>Sat, 01 May 2021 22:48:37 -0300</pubDate>
       
-      <guid>http://localhost:1313/categorias/css/</guid>
+      <guid>https://tognola.tk/categorias/css/</guid>
       <description></description>
     </item>
     
     <item>
       <title>HTML</title>
-      <link>http://localhost:1313/categorias/html/</link>
+      <link>https://tognola.tk/categorias/html/</link>
       <pubDate>Sat, 01 May 2021 22:48:37 -0300</pubDate>
       
-      <guid>http://localhost:1313/categorias/html/</guid>
+      <guid>https://tognola.tk/categorias/html/</guid>
       <description></description>
     </item>
     
