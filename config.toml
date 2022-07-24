@@ -1,6 +1,6 @@
 baseURL = "https://tosch.dev/"
 languageCode = "es"
-title = "~/tognola"
+title = "~/tosch"
 theme = "papermod"
 defaultContentLanguage = "es"
 disqusShortname = "blog"
